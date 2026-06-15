@@ -1,0 +1,13 @@
+# Build outputs
+.godot/
+bin/
+obj/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Logs
+*.log

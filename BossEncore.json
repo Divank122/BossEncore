@@ -1,0 +1,11 @@
+{
+  "id": "BossEncore",
+  "name": "Boss Encore",
+  "author": "t334 & Divank",
+  "description": "Adds an extra boss encounter after each act's boss, with event, treasure, and rest site nodes along the way.",
+  "version": "v0.1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}
